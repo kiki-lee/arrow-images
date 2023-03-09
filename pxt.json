@@ -1,6 +1,6 @@
 {
     "name": "Arrow-Assets",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -9,10 +9,7 @@
         "main.blocks",
         "main.ts",
         "assets.json",
-        "tilemap.g.jres",
-        "tilemap.g.ts",
-        "images.g.jres",
-        "images.g.ts"
+        "images.g.jres"
     ],
     "testFiles": [
         "test.ts"
